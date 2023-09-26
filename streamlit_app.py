@@ -1,3 +1,4 @@
+import streamlit as st
 # 乱数に関するライブラリをインポート
 import random
 
